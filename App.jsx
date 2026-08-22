@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'https://esm.sh';
+import { useState, useEffect } from 'https://esm.sh';
 
 export default function App() {
   const [weeks, setWeeks] = useState([]);
